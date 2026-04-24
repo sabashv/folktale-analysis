@@ -2,6 +2,10 @@
 - The extraction is done using llama-3.1-8b-instant model. 
 - Prompt3 (aft_df_with_extracted_motifs3.pkl) has the highest accruacy on atu classification.
 
+### Data sources:
+- aft_df datasets: Taken from https://github.com/j-hagedorn/trilogy/tree/master/data
+- yashpeh datasets: Scraped from https://folkmasa.org/yashpeh/mb_yash.php
+
 #### Prompt2:
 
 ```
